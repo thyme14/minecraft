@@ -1,0 +1,680 @@
+[15:54:01] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:54:08] [Worker-Main-6/INFO]: Loaded 7 recipes
+[15:54:14] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[15:54:14] [Server thread/INFO]: Loading properties
+[15:54:14] [Server thread/INFO]: This server is running CraftBukkit version 3470-Spigot-ffceeae-1092219 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT)
+[15:54:15] [Server thread/INFO]: Debug logging is disabled
+[15:54:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:54:15] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:54:15] [Server thread/INFO]: Default game type: SURVIVAL
+[15:54:15] [Server thread/INFO]: Generating keypair
+[15:54:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:54:16] [Server thread/INFO]: Using epoll channel type
+[15:54:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:54:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:54:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:54:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:54:17] [Server thread/INFO]: Preparing level "world"
+[15:54:19] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:54:19] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:54:19] [Server thread/INFO]: Mob Spawn Range: 6
+[15:54:19] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:54:19] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:54:19] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:54:19] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:54:19] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:54:19] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:54:19] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:54:19] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:54:19] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:54:19] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:54:19] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:54:19] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:54:19] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:54:19] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:54:19] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:54:19] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:54:19] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[15:54:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:54:19] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:54:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:54:19] [Server thread/INFO]: Max TNT Explosions: 100
+[15:54:19] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:54:19] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:54:19] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:54:19] [Server thread/INFO]: View Distance: 10
+[15:54:19] [Server thread/INFO]: Simulation Distance: 10
+[15:54:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:54:19] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:54:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:54:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:54:21] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:54:21] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:54:21] [Server thread/INFO]: Mob Spawn Range: 6
+[15:54:21] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:54:21] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:54:21] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:54:21] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:54:21] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:54:21] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:54:21] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:54:21] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:54:21] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:54:21] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:54:21] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:54:21] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:54:21] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:54:21] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:54:21] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:54:21] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:54:21] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[15:54:21] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:54:21] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:54:21] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:54:21] [Server thread/INFO]: Max TNT Explosions: 100
+[15:54:21] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:54:21] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:54:21] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:54:21] [Server thread/INFO]: View Distance: 10
+[15:54:21] [Server thread/INFO]: Simulation Distance: 10
+[15:54:21] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:54:21] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:54:21] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:54:21] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:54:22] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:54:22] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:54:22] [Server thread/INFO]: Mob Spawn Range: 6
+[15:54:22] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:54:22] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:54:22] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:54:22] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:54:22] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:54:22] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:54:22] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:54:22] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:54:22] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:54:22] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:54:22] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:54:22] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:54:22] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:54:22] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:54:22] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:54:22] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:54:22] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[15:54:22] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:54:22] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:54:22] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:54:22] [Server thread/INFO]: Max TNT Explosions: 100
+[15:54:22] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:54:22] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:54:22] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:54:22] [Server thread/INFO]: View Distance: 10
+[15:54:22] [Server thread/INFO]: Simulation Distance: 10
+[15:54:22] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:54:22] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:54:22] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:54:22] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:54:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:54:29] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:54:30] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:54:30] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:54:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:54:30] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:54:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:54:30] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:54:30] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:54:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:54:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:54:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:54:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:54:30] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:54:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:54:30] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:54:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:54:31] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:54:31] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:54:31] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:54:32] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:54:33] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:54:33] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:54:33] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:54:34] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:54:34] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:54:35] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:54:35] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:54:36] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:54:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:54:37] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:54:37] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:54:38] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:54:38] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:54:39] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:54:39] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:54:40] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:54:40] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:54:41] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:54:41] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:54:42] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:54:42] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:54:43] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:54:43] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:54:44] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:54:44] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:54:45] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:54:45] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:54:46] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:54:46] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:54:47] [Worker-Main-4/INFO]: Preparing spawn area: 1%
+[15:54:47] [Worker-Main-5/INFO]: Preparing spawn area: 1%
+[15:54:48] [Worker-Main-4/INFO]: Preparing spawn area: 1%
+[15:54:48] [Worker-Main-4/INFO]: Preparing spawn area: 2%
+[15:54:49] [Worker-Main-4/INFO]: Preparing spawn area: 3%
+[15:54:49] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[15:54:50] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[15:54:50] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[15:54:51] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[15:54:51] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[15:54:52] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[15:54:52] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[15:54:53] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[15:54:53] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[15:54:54] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[15:54:54] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[15:54:55] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[15:54:55] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[15:54:56] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[15:54:56] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[15:54:57] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[15:54:57] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[15:54:58] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[15:54:58] [Worker-Main-5/INFO]: Preparing spawn area: 5%
+[15:54:59] [Worker-Main-5/INFO]: Preparing spawn area: 6%
+[15:54:59] [Worker-Main-4/INFO]: Preparing spawn area: 7%
+[15:55:00] [Worker-Main-4/INFO]: Preparing spawn area: 8%
+[15:55:00] [Worker-Main-5/INFO]: Preparing spawn area: 9%
+[15:55:01] [Worker-Main-4/INFO]: Preparing spawn area: 9%
+[15:55:02] [Worker-Main-5/INFO]: Preparing spawn area: 13%
+[15:55:02] [Worker-Main-4/INFO]: Preparing spawn area: 16%
+[15:55:02] [Worker-Main-5/INFO]: Preparing spawn area: 22%
+[15:55:03] [Worker-Main-4/INFO]: Preparing spawn area: 27%
+[15:55:03] [Worker-Main-5/INFO]: Preparing spawn area: 28%
+[15:55:04] [Worker-Main-4/INFO]: Preparing spawn area: 29%
+[15:55:04] [Worker-Main-5/INFO]: Preparing spawn area: 29%
+[15:55:05] [Worker-Main-4/INFO]: Preparing spawn area: 29%
+[15:55:05] [Worker-Main-4/INFO]: Preparing spawn area: 29%
+[15:55:06] [Worker-Main-4/INFO]: Preparing spawn area: 31%
+[15:55:06] [Worker-Main-5/INFO]: Preparing spawn area: 32%
+[15:55:07] [Worker-Main-4/INFO]: Preparing spawn area: 36%
+[15:55:07] [Worker-Main-4/INFO]: Preparing spawn area: 41%
+[15:55:08] [Worker-Main-5/INFO]: Preparing spawn area: 45%
+[15:55:08] [Worker-Main-4/INFO]: Preparing spawn area: 50%
+[15:55:09] [Worker-Main-5/INFO]: Preparing spawn area: 52%
+[15:55:09] [Worker-Main-5/INFO]: Preparing spawn area: 55%
+[15:55:10] [Worker-Main-5/INFO]: Preparing spawn area: 58%
+[15:55:10] [Worker-Main-5/INFO]: Preparing spawn area: 60%
+[15:55:11] [Worker-Main-4/INFO]: Preparing spawn area: 65%
+[15:55:11] [Worker-Main-4/INFO]: Preparing spawn area: 71%
+[15:55:12] [Worker-Main-5/INFO]: Preparing spawn area: 75%
+[15:55:12] [Worker-Main-5/INFO]: Preparing spawn area: 79%
+[15:55:32] [Worker-Main-5/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-5/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-5/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-5/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-5/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-5/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-5/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-5/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-5/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-4/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-4/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-4/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-4/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-4/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-5/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-5/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-6/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-6/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-6/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-6/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-6/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-6/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-6/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-6/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-6/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-6/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-6/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-6/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-6/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-6/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-4/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-4/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-4/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-4/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-4/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-4/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-4/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-4/INFO]: Preparing spawn area: 80%
+[15:55:32] [Worker-Main-4/INFO]: Preparing spawn area: 80%
+[15:55:33] [Worker-Main-4/INFO]: Preparing spawn area: 85%
+[15:55:33] [Worker-Main-4/INFO]: Preparing spawn area: 85%
+[15:55:33] [Worker-Main-5/INFO]: Preparing spawn area: 85%
+[15:55:34] [Worker-Main-4/INFO]: Preparing spawn area: 85%
+[15:55:34] [Worker-Main-6/INFO]: Preparing spawn area: 85%
+[15:55:36] [Server thread/INFO]: Time elapsed: 73477 ms
+[15:55:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:55:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:55:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:55:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:55:43] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:55:43] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:55:43] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:55:43] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:55:43] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:55:43] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:55:43] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:55:43] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:55:43] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:55:43] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:55:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:55:43] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:55:44] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:55:44] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:55:45] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:55:45] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:55:46] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:55:46] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:55:47] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:55:47] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:55:48] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:55:48] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:55:49] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:55:49] [Worker-Main-5/INFO]: Preparing spawn area: 2%
+[15:55:51] [Worker-Main-5/INFO]: Preparing spawn area: 3%
+[15:55:51] [Worker-Main-4/INFO]: Preparing spawn area: 3%
+[15:55:51] [Worker-Main-4/INFO]: Preparing spawn area: 3%
+[15:55:51] [Worker-Main-6/INFO]: Preparing spawn area: 3%
+[15:55:52] [Worker-Main-6/INFO]: Preparing spawn area: 3%
+[15:55:52] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[15:55:54] [Worker-Main-4/INFO]: Preparing spawn area: 5%
+[15:55:54] [Worker-Main-4/INFO]: Preparing spawn area: 5%
+[15:55:54] [Worker-Main-4/INFO]: Preparing spawn area: 5%
+[15:55:54] [Worker-Main-4/INFO]: Preparing spawn area: 7%
+[15:55:56] [Worker-Main-6/INFO]: Preparing spawn area: 11%
+[15:55:56] [Worker-Main-5/INFO]: Preparing spawn area: 11%
+[15:55:56] [Worker-Main-6/INFO]: Preparing spawn area: 13%
+[15:55:56] [Worker-Main-5/INFO]: Preparing spawn area: 19%
+[15:55:57] [Worker-Main-5/INFO]: Preparing spawn area: 45%
+[15:55:57] [Worker-Main-4/INFO]: Preparing spawn area: 59%
+[15:55:58] [Worker-Main-4/INFO]: Preparing spawn area: 68%
+[15:55:58] [Worker-Main-6/INFO]: Preparing spawn area: 68%
+[15:55:59] [Worker-Main-4/INFO]: Preparing spawn area: 68%
+[15:55:59] [Worker-Main-4/INFO]: Preparing spawn area: 69%
+[15:56:00] [Worker-Main-4/INFO]: Preparing spawn area: 69%
+[15:56:00] [Worker-Main-6/INFO]: Preparing spawn area: 69%
+[15:56:01] [Worker-Main-6/INFO]: Preparing spawn area: 70%
+[15:56:01] [Worker-Main-4/INFO]: Preparing spawn area: 71%
+[15:56:02] [Worker-Main-5/INFO]: Preparing spawn area: 72%
+[15:56:02] [Worker-Main-5/INFO]: Preparing spawn area: 73%
+[15:56:03] [Worker-Main-6/INFO]: Preparing spawn area: 73%
+[15:56:03] [Worker-Main-6/INFO]: Preparing spawn area: 74%
+[15:56:04] [Worker-Main-5/INFO]: Preparing spawn area: 75%
+[15:56:04] [Worker-Main-5/INFO]: Preparing spawn area: 77%
+[15:56:05] [Worker-Main-5/INFO]: Preparing spawn area: 78%
+[15:56:05] [Worker-Main-5/INFO]: Preparing spawn area: 80%
+[15:56:06] [Worker-Main-4/INFO]: Preparing spawn area: 80%
+[15:56:06] [Worker-Main-4/INFO]: Preparing spawn area: 81%
+[15:56:07] [Worker-Main-4/INFO]: Preparing spawn area: 82%
+[15:56:07] [Worker-Main-5/INFO]: Preparing spawn area: 82%
+[15:56:08] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[15:56:08] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[15:56:09] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[15:56:09] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[15:56:10] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[15:56:10] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[15:56:11] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[15:56:11] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[15:56:12] [Worker-Main-6/INFO]: Preparing spawn area: 84%
+[15:56:12] [Worker-Main-5/INFO]: Preparing spawn area: 85%
+[15:56:13] [Worker-Main-5/INFO]: Preparing spawn area: 85%
+[15:56:13] [Worker-Main-5/INFO]: Preparing spawn area: 85%
+[15:56:14] [Worker-Main-4/INFO]: Preparing spawn area: 86%
+[15:56:14] [Worker-Main-4/INFO]: Preparing spawn area: 86%
+[15:56:15] [Worker-Main-5/INFO]: Preparing spawn area: 86%
+[15:56:15] [Worker-Main-4/INFO]: Preparing spawn area: 86%
+[15:56:16] [Worker-Main-5/INFO]: Preparing spawn area: 87%
+[15:56:16] [Worker-Main-5/INFO]: Preparing spawn area: 87%
+[15:56:17] [Worker-Main-4/INFO]: Preparing spawn area: 88%
+[15:56:17] [Worker-Main-5/INFO]: Preparing spawn area: 89%
+[15:56:18] [Worker-Main-5/INFO]: Preparing spawn area: 89%
+[15:56:18] [Worker-Main-5/INFO]: Preparing spawn area: 90%
+[15:56:19] [Worker-Main-6/INFO]: Preparing spawn area: 91%
+[15:56:19] [Worker-Main-6/INFO]: Preparing spawn area: 91%
+[15:56:20] [Worker-Main-4/INFO]: Preparing spawn area: 92%
+[15:56:20] [Worker-Main-4/INFO]: Preparing spawn area: 93%
+[15:56:21] [Worker-Main-5/INFO]: Preparing spawn area: 93%
+[15:56:21] [Worker-Main-4/INFO]: Preparing spawn area: 94%
+[15:56:22] [Worker-Main-4/INFO]: Preparing spawn area: 94%
+[15:56:22] [Worker-Main-4/INFO]: Preparing spawn area: 96%
+[15:56:23] [Worker-Main-5/INFO]: Preparing spawn area: 96%
+[15:56:23] [Worker-Main-6/INFO]: Preparing spawn area: 97%
+[15:56:24] [Worker-Main-5/INFO]: Preparing spawn area: 97%
+[15:56:24] [Worker-Main-4/INFO]: Preparing spawn area: 97%
+[15:56:25] [Worker-Main-5/INFO]: Preparing spawn area: 98%
+[15:56:25] [Worker-Main-6/INFO]: Preparing spawn area: 99%
+[15:56:26] [Worker-Main-5/INFO]: Preparing spawn area: 99%
+[15:56:26] [Server thread/INFO]: Time elapsed: 49631 ms
+[15:56:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:56:29] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:56:29] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:56:29] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:56:29] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:56:29] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:56:29] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:56:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:56:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:56:30] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:56:30] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:56:31] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:56:32] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:56:32] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:56:32] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:56:33] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:56:33] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:56:34] [Worker-Main-5/INFO]: Preparing spawn area: 5%
+[15:56:34] [Worker-Main-5/INFO]: Preparing spawn area: 10%
+[15:56:35] [Worker-Main-5/INFO]: Preparing spawn area: 23%
+[15:56:35] [Worker-Main-4/INFO]: Preparing spawn area: 35%
+[15:56:36] [Worker-Main-5/INFO]: Preparing spawn area: 44%
+[15:56:36] [Worker-Main-6/INFO]: Preparing spawn area: 55%
+[15:56:37] [Worker-Main-6/INFO]: Preparing spawn area: 56%
+[15:56:37] [Worker-Main-4/INFO]: Preparing spawn area: 64%
+[15:56:38] [Worker-Main-5/INFO]: Preparing spawn area: 69%
+[15:56:38] [Worker-Main-5/INFO]: Preparing spawn area: 70%
+[15:56:39] [Worker-Main-6/INFO]: Preparing spawn area: 73%
+[15:56:39] [Worker-Main-6/INFO]: Preparing spawn area: 75%
+[15:56:40] [Worker-Main-6/INFO]: Preparing spawn area: 79%
+[15:56:40] [Worker-Main-4/INFO]: Preparing spawn area: 82%
+[15:56:41] [Worker-Main-4/INFO]: Preparing spawn area: 84%
+[15:56:41] [Worker-Main-4/INFO]: Preparing spawn area: 84%
+[15:56:42] [Worker-Main-5/INFO]: Preparing spawn area: 85%
+[15:56:43] [Worker-Main-4/INFO]: Preparing spawn area: 87%
+[15:56:43] [Worker-Main-4/INFO]: Preparing spawn area: 89%
+[15:56:43] [Worker-Main-6/INFO]: Preparing spawn area: 90%
+[15:56:44] [Worker-Main-4/INFO]: Preparing spawn area: 94%
+[15:56:44] [Worker-Main-4/INFO]: Preparing spawn area: 96%
+[15:56:45] [Worker-Main-5/INFO]: Preparing spawn area: 99%
+[15:56:45] [Server thread/INFO]: Time elapsed: 19029 ms
+[15:56:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:56:45] [Server thread/INFO]: Done (148.670s)! For help, type "help"
+[15:56:45] [Server thread/INFO]: Starting remote control listener
+[15:56:46] [Server thread/INFO]: Thread RCON Listener started
+[15:56:46] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[15:57:16] [User Authenticator #1/INFO]: UUID of player miftah94 is db67b498-cb6a-38af-b4b3-3ef0f6721b26
+[15:57:20] [Server thread/INFO]: miftah94[/192.168.12.254:41204] logged in with entity id 108 at ([world]133.30000001192093, 67.0, 266.1404505285092)
+[15:57:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5693ms or 113 ticks behind
+[15:57:31] [Server thread/WARN]: UUID of added entity already exists: EntityZombie['Zombie'/273, l='ServerLevel[world]', x=203.50, y=-26.00, z=272.04]
+[15:57:34] [Server thread/WARN]: UUID of added entity already exists: EntityDolphin['Dolphin'/313, l='ServerLevel[world]', x=60.41, y=57.44, z=292.83]
+[15:57:41] [User Authenticator #2/INFO]: UUID of player phoenix is cc8aba06-2d19-32c1-8378-f6a21bd4949b
+[15:57:42] [Server thread/INFO]: phoenix[/192.168.12.254:61676] logged in with entity id 324 at ([world]126.74401442371868, 68.0, 262.75308899325563)
+[15:57:50] [User Authenticator #3/INFO]: UUID of player azraya is 991f4fd5-87e2-326d-b3b8-84abfc5233f6
+[15:57:52] [Server thread/INFO]: azraya[/192.168.12.254:49520] logged in with entity id 325 at ([world]136.47805934298358, 68.0, 271.51249998807907)
+[15:58:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31728ms or 634 ticks behind
+[15:58:25] [Async Chat Thread - #0/INFO]: <miftah94> awas[m
+[15:58:26] [Async Chat Thread - #0/INFO]: <azraya> aman ko k[m
+[15:58:39] [Async Chat Thread - #0/INFO]: <azraya> gak turun turun[m
+[15:59:07] [Server thread/INFO]: azraya lost connection: Disconnected
+[15:59:07] [Async Chat Thread - #0/INFO]: <miftah94> wekkk[m
+[15:59:08] [Server thread/INFO]: azraya left the game
+[15:59:12] [Async Chat Thread - #0/INFO]: <miftah94> gitu giutu aja[m
+[15:59:14] [User Authenticator #4/INFO]: UUID of player azraya is 991f4fd5-87e2-326d-b3b8-84abfc5233f6
+[15:59:17] [Server thread/INFO]: azraya[/192.168.12.254:49524] logged in with entity id 398 at ([world]132.69753994988912, 76.0, 230.76020120666396)
+[15:59:28] [Async Chat Thread - #0/INFO]: <miftah94> gigik mu aman[m
+[15:59:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 35495ms or 709 ticks behind
+[15:59:43] [Async Chat Thread - #0/INFO]: <azraya> aku sengja out[m
+[15:59:50] [Async Chat Thread - #0/INFO]: <azraya> api masih ngelag[m
+[15:59:57] [Async Chat Thread - #0/INFO]: <azraya> mau ganti prosessor ?[m
+[16:00:04] [Async Chat Thread - #0/INFO]: <azraya> biar kita cari[m
+[16:00:18] [Async Chat Thread - #0/INFO]: <miftah94> belom tentu proc[m
+[16:00:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5242ms or 104 ticks behind
+[16:00:28] [Async Chat Thread - #0/INFO]: <miftah94> bntr ya[m
+[16:00:31] [Async Chat Thread - #0/INFO]: <miftah94> kalian jan off[m
+[16:00:36] [Async Chat Thread - #0/INFO]: <miftah94> ku cari apa yang stress[m
+[16:01:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 45440ms or 908 ticks behind
+[16:01:57] [Async Chat Thread - #1/INFO]: <azraya> kau bakar kampret[m
+[16:02:07] [Async Chat Thread - #1/INFO]: <phoenix> wkwkwkkwwk[m
+[16:02:14] [Async Chat Thread - #1/INFO]: <phoenix> ga liat jalan wkwkwkwkkw[m
+[16:02:20] [Async Chat Thread - #1/INFO]: <phoenix> kasian kudanya[m
+[16:02:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5083ms or 101 ticks behind
+[16:03:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9317ms or 186 ticks behind
+[16:04:27] [Async Chat Thread - #2/INFO]: <miftah94> woii[m
+[16:04:37] [Async Chat Thread - #2/INFO]: <azraya> apa[m
+[16:04:38] [Async Chat Thread - #2/INFO]: <miftah94> masi lag?[m
+[16:07:28] [Async Chat Thread - #3/INFO]: <miftah94> kalian dimana[m
+[16:07:39] [Async Chat Thread - #3/INFO]: <phoenix> berkebun[m
+[16:09:10] [Async Chat Thread - #4/INFO]: <miftah94> udah aman[m
+[16:09:13] [Async Chat Thread - #4/INFO]: <miftah94> kalian bisa tidur[m
+[16:09:15] [Async Chat Thread - #4/INFO]: <azraya> yang paling sering di kasih makan sapi nya ndall[m
+[16:09:25] [Async Chat Thread - #4/INFO]: <azraya> prioritas[m
+[16:09:27] [Async Chat Thread - #4/INFO]: <phoenix> siaaap[m
+[16:09:36] [Async Chat Thread - #4/INFO]: <miftah94> aku bukan nya gada dana buat ganti processor kal tapi mobo nya gabisa upgrade[m
+[16:09:43] [Async Chat Thread - #4/INFO]: <miftah94> ini mentok[m
+[16:09:58] [Async Chat Thread - #4/INFO]: <miftah94> ga berani upgrade bios[m
+[16:10:17] [Async Chat Thread - #4/INFO]: <azraya> apanya mentok[m
+[16:10:23] [Async Chat Thread - #4/INFO]: <azraya> cpu nya ?[m
+[16:10:25] [Async Chat Thread - #4/INFO]: <miftah94> i5 gen 2[m
+[16:10:32] [Async Chat Thread - #4/INFO]: <miftah94> gabisa i5 gen 3 kita pakek[m
+[16:10:50] [Async Chat Thread - #4/INFO]: <miftah94> eh i3[m
+[16:10:52] [Async Chat Thread - #4/INFO]: <miftah94> sorry[m
+[16:10:56] [Async Chat Thread - #4/INFO]: <azraya> aku heran tadi[m
+[16:11:01] [Async Chat Thread - #4/INFO]: <azraya> i5[m
+[16:11:38] [Async Chat Thread - #4/INFO]: <miftah94> kalau cuman beli proc i5 gen 3 kacang kal[m
+[16:11:42] [Async Chat Thread - #4/INFO]: <miftah94> api gak masok[m
+[16:11:46] [Async Chat Thread - #4/INFO]: <miftah94> mobo nya[m
+[16:11:52] [Async Chat Thread - #4/INFO]: <phoenix> eh tutup ada sapi mo keluar[m
+[16:15:06] [Async Chat Thread - #5/INFO]: <phoenix> dah ah mau tidur[m
+[16:17:01] [Async Chat Thread - #6/INFO]: <miftah94> TIDUR WOI BESOK NGULI[m
+[16:17:03] [Async Chat Thread - #6/INFO]: <miftah94> ndall[m
+[16:17:09] [Async Chat Thread - #6/INFO]: <miftah94> kulihat kau udah lumayan lincah[m
+[16:17:11] [Async Chat Thread - #6/INFO]: <phoenix> iyaa[m
+[16:17:21] [Async Chat Thread - #6/INFO]: <azraya> movenya udah mayan dia[m
+[16:17:21] [Async Chat Thread - #6/INFO]: <miftah94> dah lasak main nya[m
+[16:17:28] [Async Chat Thread - #6/INFO]: <phoenix> wkwkwkkwwk[m
+[16:17:33] [Async Chat Thread - #6/INFO]: <miftah94> gimana exprience nya?[m
+[16:17:34] [Async Chat Thread - #6/INFO]: <phoenix> cuma itu itu aja soalnya[m
+[16:17:42] [Async Chat Thread - #6/INFO]: <phoenix> panen doang hahaha[m
+[16:17:46] [Async Chat Thread - #6/INFO]: <miftah94> craft nnti[m
+[16:17:50] [Async Chat Thread - #6/INFO]: <azraya> coba jalan jalan[m
+[16:17:51] [Async Chat Thread - #6/INFO]: <miftah94> perang belom[m
+[16:17:51] [Async Chat Thread - #6/INFO]: <azraya> maka[m
+[16:17:56] [Async Chat Thread - #6/INFO]: <miftah94> mining belom[m
+[16:18:03] [Async Chat Thread - #6/INFO]: <azraya> begado sama wolf ku[m
+[16:18:07] [Async Chat Thread - #6/INFO]: <miftah94> nnti masok map neraka kita ndall[m
+[16:18:12] [Async Chat Thread - #6/INFO]: <azraya> mau test begado wolf ku[m
+[16:18:15] [Async Chat Thread - #6/INFO]: <azraya> wkwkwkwkw[m
+[16:18:16] [Async Chat Thread - #6/INFO]: <miftah94> tapi cari diamon dlu[m
+[16:18:18] [Async Chat Thread - #6/INFO]: <phoenix> lumayannn seru lah wkwkwkw[m
+[16:18:24] [Async Chat Thread - #6/INFO]: <miftah94> cari emas[m
+[16:18:31] [Async Chat Thread - #6/INFO]: <miftah94> biar investasi[m
+[16:18:35] [Async Chat Thread - #6/INFO]: <azraya> neraka nanti nanti lah[m
+[16:18:36] [Async Chat Thread - #6/INFO]: <phoenix> neraka kwkw[m
+[16:18:38] [Async Chat Thread - #6/INFO]: <phoenix> gasss[m
+[16:18:47] [Async Chat Thread - #6/INFO]: <miftah94> cari diamond dlu tapi[m
+[16:18:49] [Async Chat Thread - #6/INFO]: <miftah94> susah ndall[m
+[16:18:50] [Async Chat Thread - #6/INFO]: <azraya> dekat rumah ada mif kalau mau portal[m
+[16:18:57] [Async Chat Thread - #6/INFO]: <azraya> di dekat rumah lama[m
+[16:19:07] [Async Chat Thread - #6/INFO]: <miftah94> cari aja kita nnti[m
+[16:19:07] [Async Chat Thread - #6/INFO]: <azraya> kau belajar jalan di satu blok dulu ndall[m
+[16:19:13] [Async Chat Thread - #6/INFO]: <phoenix> asal ga jadi afiliator aja[m
+[16:19:19] [Async Chat Thread - #6/INFO]: <miftah94> owawkwawk[m
+[16:19:30] [Async Chat Thread - #6/INFO]: <miftah94> kalau di neraka map nya penuh dengan lava[m
+[16:19:32] [Async Chat Thread - #6/INFO]: <miftah94> susah[m
+[16:19:38] [Async Chat Thread - #6/INFO]: <phoenix> wadohhhh[m
+[16:19:45] [Async Chat Thread - #6/INFO]: <phoenix> lincahin dulu disini lah[m
+[16:19:46] [Async Chat Thread - #6/INFO]: <miftah94> banyak hewan buas yang siap ngejar kita[m
+[16:19:58] [Async Chat Thread - #6/INFO]: <miftah94> ada yang terbang sambil nembak[m
+[16:20:02] [Async Chat Thread - #6/INFO]: <phoenix> aku kalau banyak pohon atau tanahnya susun gitu masih susah jg[m
+[16:20:09] [Async Chat Thread - #6/INFO]: <miftah94> PHANTOM BABI[m
+[16:20:25] [Async Chat Thread - #6/INFO]: <miftah94> masok rumah[m
+[16:20:49] [Async Chat Thread - #6/INFO]: <phoenix> itu kau buat apa lagi diatap rumah kal[m
+[16:20:59] [Async Chat Thread - #6/INFO]: <miftah94> buat mukul phantom mungkin[m
+[16:21:01] [Async Chat Thread - #6/INFO]: <azraya> enngak[m
+[16:21:08] [Async Chat Thread - #6/INFO]: <azraya> buat kau belajar jalan 1 block[m
+[16:21:28] [Async Chat Thread - #6/INFO]: <miftah94> kal[m
+[16:21:33] [Async Chat Thread - #6/INFO]: <phoenix> jatuh lagiii[m
+[16:21:33] [Async Chat Thread - #6/INFO]: <miftah94> dia kok gak mukul kita[m
+[16:21:37] [Async Chat Thread - #6/INFO]: <azraya> itu lah[m
+[16:21:45] [Async Chat Thread - #6/INFO]: <miftah94> buat menuhin server aja[m
+[16:22:03] [Async Chat Thread - #6/INFO]: <azraya> aku punya cara mif[m
+[16:22:05] [Async Chat Thread - #6/INFO]: <azraya> wait[m
+[16:22:25] [Async Chat Thread - #6/INFO]: <miftah94> klik shift aja ndal sambil jalan ke 1 blok itu[m
+[16:22:34] [Async Chat Thread - #6/INFO]: <azraya> liat mif[m
+[16:22:38] [Async Chat Thread - #6/INFO]: <phoenix> helpp[m
+[16:22:40] [Async Chat Thread - #6/INFO]: <miftah94> udah[m
+[16:22:45] [Async Chat Thread - #6/INFO]: <phoenix> wkwkkwkwk[m
+[16:22:52] [Async Chat Thread - #6/INFO]: <miftah94> woii[m
+[16:22:53] [Async Chat Thread - #6/INFO]: <azraya> wkwkw[m
+[16:23:00] [Async Chat Thread - #6/INFO]: <miftah94> lempar telur yam bah[m
+[16:23:03] [Async Chat Thread - #6/INFO]: <azraya> ken[m
+[16:23:05] [Async Chat Thread - #6/INFO]: <azraya> kena[m
+[16:23:13] [Async Chat Thread - #6/INFO]: <miftah94> eshe[m
+[16:23:21] [Async Chat Thread - #6/INFO]: <phoenix> buth makan[m
+[16:23:29] [Async Chat Thread - #6/INFO]: <phoenix> sebelum tidur[m
+[16:23:36] [Async Chat Thread - #6/INFO]: <azraya> bunuh ayam baru masak ndall[m
+[16:23:40] [Async Chat Thread - #6/INFO]: <azraya> ajarin mif masak[m
+[16:23:40] [Async Chat Thread - #6/INFO]: <miftah94> gosah[m
+[16:23:43] [Async Chat Thread - #6/INFO]: <miftah94> dah malam[m
+[16:23:47] [Async Chat Thread - #6/INFO]: <miftah94> besok aja lanjut belajar masak[m
+[16:23:54] [Async Chat Thread - #6/INFO]: <miftah94> tuh[m
+[16:23:56] [Async Chat Thread - #6/INFO]: <miftah94> udah[m
+[16:24:00] [Async Chat Thread - #6/INFO]: <phoenix> ok besok belajar masak[m
+[16:24:22] [Async Chat Thread - #6/INFO]: <miftah94> saran aku ndall jan terlalu deket di pagar[m
+[16:25:05] [Async Chat Thread - #6/INFO]: <phoenix> okeeyy[m
+[16:25:11] [Async Chat Thread - #6/INFO]: <azraya> ini lah alasan aku cepat cepat pengen punya panah invinity[m
+[16:25:18] [Async Chat Thread - #6/INFO]: <miftah94> besok belajar masak[m
+[16:25:27] [Async Chat Thread - #6/INFO]: <miftah94> dan aku kita jelajah gua itu kal[m
+[16:25:47] [Async Chat Thread - #6/INFO]: <phoenix> siappp[m
+[16:26:00] [Async Chat Thread - #6/INFO]: <azraya> dah lah[m
+[16:26:06] [Async Chat Thread - #6/INFO]: <miftah94> kalau adah panah enak kali tu[m
+[16:26:07] [Async Chat Thread - #6/INFO]: <azraya> ngantuk[m
+[16:26:16] [Async Chat Thread - #6/INFO]: <azraya> gak turun turun[m
+[16:26:22] [Async Chat Thread - #6/INFO]: <miftah94> ko tau penyebab nya[m
+[16:26:23] [Async Chat Thread - #6/INFO]: <miftah94> ?[m
+[16:26:27] [Async Chat Thread - #6/INFO]: <azraya> gak tau[m
+[16:26:33] [Async Chat Thread - #6/INFO]: <azraya> kucing apa ?[m
+[16:26:36] [Async Chat Thread - #6/INFO]: <miftah94> karena ada wolf?[m
+[16:26:44] [Async Chat Thread - #6/INFO]: <azraya> cak ya[m
+[16:26:58] [Async Chat Thread - #6/INFO]: <miftah94> dia ga ngejer kau[m
+[16:27:17] [Async Chat Thread - #6/INFO]: <azraya> sini juga ko[m
+[16:27:29] [Async Chat Thread - #6/INFO]: <miftah94> tau aja dia mana yang cewe[m
+[16:27:36] [Async Chat Thread - #6/INFO]: <phoenix> hahahahah[m
+[16:27:50] [Async Chat Thread - #6/INFO]: <phoenix> itu apa[m
+[16:28:01] [Async Chat Thread - #6/INFO]: <azraya> dah bunuh 1[m
+[16:28:01] [Async Chat Thread - #6/INFO]: <miftah94> monster[m
+[16:28:06] [Async Chat Thread - #6/INFO]: <miftah94> berarti emg kal[m
+[16:28:12] [Async Chat Thread - #6/INFO]: <miftah94> aku digigit di luar tadi[m
+[16:28:36] [Async Chat Thread - #6/INFO]: <miftah94> beneran safety ni rumah[m
+[16:28:38] [Async Chat Thread - #6/INFO]: <azraya> amankali rumah kita[m
+[16:28:57] [Async Chat Thread - #6/INFO]: <miftah94> tambah golem atau lebih aman[m
+[16:29:01] [Async Chat Thread - #6/INFO]: <miftah94> auto[m
+[16:29:31] [Async Chat Thread - #6/INFO]: <miftah94> bising tapi[m
+[16:29:35] [Async Chat Thread - #6/INFO]: <azraya> itu lah[m
+[16:29:38] [Async Chat Thread - #6/INFO]: <miftah94> ndall[m
+[16:29:39] [Async Chat Thread - #6/INFO]: <miftah94> ndall[m
+[16:29:43] [Async Chat Thread - #6/INFO]: <miftah94> sebelum kau tidur[m
+[16:29:43] [Async Chat Thread - #6/INFO]: <phoenix> apa[m
+[16:29:44] [Async Chat Thread - #6/INFO]: <azraya> harus sering sering mancing aku[m
+[16:29:53] [Async Chat Thread - #6/INFO]: <azraya> ehh aku deng[m
+[16:29:56] [Async Chat Thread - #6/INFO]: <phoenix> baca doa[m
+[16:29:59] [Async Chat Thread - #6/INFO]: <miftah94> no[m
+[16:30:02] [Async Chat Thread - #6/INFO]: <phoenix> trus[m
+[16:30:07] [Async Chat Thread - #6/INFO]: <miftah94> besok mau belajar masak kan?[m
+[16:30:07] [Async Chat Thread - #6/INFO]: <phoenix> overthinking?[m
+[16:30:17] [Async Chat Thread - #6/INFO]: <phoenix> iyaaa[m
+[16:30:18] [Async Chat Thread - #6/INFO]: <miftah94> ni trial dlu masak di panggangan[m
+[16:30:22] [Async Chat Thread - #6/INFO]: <miftah94> lihat aku ni[m
+[16:30:27] [Async Chat Thread - #6/INFO]: <phoenix> otw[m
+[16:30:28] [Async Chat Thread - #6/INFO]: <miftah94> oi[m
+[16:30:33] [Async Chat Thread - #6/INFO]: <miftah94> depan my[m
+[16:30:40] [Async Chat Thread - #6/INFO]: <miftah94> tarok disini[m
+[16:30:43] [Async Chat Thread - #6/INFO]: <miftah94> klik kanan[m
+[16:30:54] [Async Chat Thread - #6/INFO]: <miftah94> klik kanan[m
+[16:31:03] [Async Chat Thread - #6/INFO]: <miftah94> di obor ini[m
+[16:31:15] [Async Chat Thread - #6/INFO]: <miftah94> tunggu mateng[m
+[16:31:17] [Async Chat Thread - #6/INFO]: <phoenix> sini kan?[m
+[16:31:22] [Async Chat Thread - #6/INFO]: <miftah94> iya lagi masak tu[m
+[16:31:25] [Async Chat Thread - #6/INFO]: <azraya> kok ini cara masak yang kau ajarin[m
+[16:31:29] [Async Chat Thread - #6/INFO]: <miftah94> waokawo[m
+[16:31:35] [Async Chat Thread - #6/INFO]: <miftah94> besok beda kali ndall[m
+[16:31:38] [Async Chat Thread - #6/INFO]: <phoenix> anda ngajarin sesat yayh[m
+[16:31:41] [Async Chat Thread - #6/INFO]: <miftah94> ini cuman masak di obor aja[m
+[16:31:46] [Async Chat Thread - #6/INFO]: <miftah94> ga[m
+[16:31:47] [Async Chat Thread - #6/INFO]: <azraya> kok obor[m
+[16:31:49] [Async Chat Thread - #6/INFO]: <miftah94> itu dah matang[m
+[16:31:59] [Async Chat Thread - #6/INFO]: <azraya> api unggun[m
+[16:32:02] [Async Chat Thread - #6/INFO]: <miftah94> oiya[m
+[16:32:06] [Async Chat Thread - #6/INFO]: <miftah94> itu dah masak[m
+[16:32:06] [Async Chat Thread - #6/INFO]: <phoenix> ngambilnya gmana[m
+[16:32:10] [Async Chat Thread - #6/INFO]: <miftah94> deketin aja lah[m
+[16:32:18] [Async Chat Thread - #6/INFO]: <miftah94> dah[m
+[16:32:25] [Async Chat Thread - #6/INFO]: <miftah94> -_-[m
+[16:32:25] [Async Chat Thread - #6/INFO]: <azraya> pas ku lempar telur pecah jadi ayam[m
+[16:32:27] [Async Chat Thread - #6/INFO]: <azraya> wkwkwk[m
+[16:32:29] [Async Chat Thread - #6/INFO]: <phoenix> kena aing[m
+[16:32:31] [Async Chat Thread - #6/INFO]: <phoenix> kampret[m
+[16:32:34] [Async Chat Thread - #6/INFO]: <miftah94> jan masuk ke api nya[m
+[16:32:36] [Async Chat Thread - #6/INFO]: <miftah94> deketin aja[m
+[16:32:42] [Async Chat Thread - #6/INFO]: <miftah94> itu udah kau pegang ayam bakar nya[m
+[16:32:48] [Async Chat Thread - #6/INFO]: <azraya> tadi dibakar dia kuda kita tau ko[m
+[16:32:48] [Async Chat Thread - #6/INFO]: <miftah94> klik e[m
+[16:32:54] [Async Chat Thread - #6/INFO]: <miftah94> iya nampak aku kal[m
+[16:33:06] [Async Chat Thread - #6/INFO]: <miftah94> ada ga?[m
+[16:33:08] [Async Chat Thread - #6/INFO]: <miftah94> ndall[m
+[16:33:12] [Async Chat Thread - #6/INFO]: <phoenix> iya dah ada ayamnya[m
+[16:33:21] [Async Chat Thread - #6/INFO]: <miftah94> nah besok lain cara nya[m
+[16:33:26] [Async Chat Thread - #6/INFO]: <miftah94> lebih kompleks[m
+[16:33:38] [Async Chat Thread - #6/INFO]: <miftah94> but fun[m
+[16:33:55] [Async Chat Thread - #6/INFO]: <phoenix> wokeeeyyy[m
+[16:34:10] [Async Chat Thread - #6/INFO]: <miftah94> cara nya amsukin coal atau bahan api nya[m
+[16:34:17] [Async Chat Thread - #6/INFO]: <miftah94> trus masukin yang mau dimasak[m
+[16:34:25] [Async Chat Thread - #6/INFO]: <phoenix> nanti aku buka buka yutub jg[m
+[16:34:26] [Async Chat Thread - #6/INFO]: <miftah94> tunggu dan selesai tinggal ambil di kompor[m
+[16:34:40] [Async Chat Thread - #6/INFO]: <phoenix> ga pake minyak yah[m
+[16:34:40] [Async Chat Thread - #6/INFO]: <miftah94> dah tidur kelen woi[m
+[16:34:43] [Async Chat Thread - #6/INFO]: <miftah94> gakk[m
+[16:34:45] [Async Chat Thread - #6/INFO]: <miftah94> mahal ndal[m
+[16:34:46] [Async Chat Thread - #6/INFO]: <phoenix> di sinni mahal jg.?[m
+[16:34:53] [Async Chat Thread - #6/INFO]: <miftah94> iya[m
+[16:34:54] [Async Chat Thread - #6/INFO]: <phoenix> wkwjwwkwkwkkw[m
+[16:34:58] [Async Chat Thread - #6/INFO]: <azraya> paya yang punya walung[m
+[16:35:00] [Async Chat Thread - #6/INFO]: <phoenix> dah ah bobo[m
+[16:35:07] [Async Chat Thread - #6/INFO]: <phoenix> ga ada jg kujual[m
+[16:35:09] [Async Chat Thread - #6/INFO]: <phoenix> mahal[m
+[16:35:19] [Async Chat Thread - #6/INFO]: <miftah94> di warung mu ga jual minyak?[m
+[16:35:23] [Async Chat Thread - #6/INFO]: <phoenix> abisss[m
+[16:35:27] [Async Chat Thread - #6/INFO]: <phoenix> mahal soalnya[m
+[16:35:35] [Async Chat Thread - #6/INFO]: <miftah94> jual mahal juga tetep habis?[m
+[16:35:58] [Async Chat Thread - #6/INFO]: <azraya> malah makin banyak[m
+[16:35:59] [Async Chat Thread - #6/INFO]: <azraya> dah lah[m
+[16:36:03] [Async Chat Thread - #6/INFO]: <azraya> tidur aing[m
+[16:36:04] [Async Chat Thread - #6/INFO]: <miftah94> BISINGG PHANTOM BASAT!!!!!![m
+[16:36:05] [Async Chat Thread - #6/INFO]: <azraya> da[m
+[16:36:07] [Async Chat Thread - #6/INFO]: <miftah94> tidur kelen[m
+[16:36:07] [Async Chat Thread - #6/INFO]: <phoenix> kemarin2 sih habis aja[m
+[16:36:07] [Server thread/INFO]: azraya lost connection: Disconnected
+[16:36:07] [Server thread/INFO]: azraya left the game
+[16:36:11] [Async Chat Thread - #6/INFO]: <phoenix> byeee[m
+[16:36:13] [Async Chat Thread - #6/INFO]: <miftah94> okeh[m
+[16:36:18] [Async Chat Thread - #6/INFO]: <miftah94> waokawo[m
+[16:36:19] [Server thread/INFO]: phoenix lost connection: Disconnected
+[16:36:19] [Server thread/INFO]: phoenix left the game
+[16:39:30] [Async Chat Thread - #7/INFO]: <miftah94> a[m
+[16:43:32] [Async Chat Thread - #8/INFO]: <miftah94> a[m
+[16:46:43] [Async Chat Thread - #9/INFO]: <miftah94> a[m
+[16:56:05] [Server thread/INFO]: miftah94 lost connection: Timed out
+[16:56:05] [Server thread/INFO]: miftah94 left the game
+[17:01:53] [User Authenticator #5/INFO]: UUID of player miftah94 is db67b498-cb6a-38af-b4b3-3ef0f6721b26
+[17:01:54] [Server thread/INFO]: miftah94[/192.168.12.254:52746] logged in with entity id 9124 at ([world]125.17277660321467, 68.0, 261.655639367822)
+[17:03:44] [Server thread/INFO]: miftah94 lost connection: Disconnected
+[17:03:44] [Server thread/INFO]: miftah94 left the game
+[17:12:49] [Thread-1/INFO]: Stopping server
+[17:12:49] [Thread-1/INFO]: Saving players
